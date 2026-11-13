@@ -66,7 +66,7 @@ jupyter lab notebooks/
 
 ## Background
 
-These analyses grew out of econometrics coursework in the WorldQuant University MSc in Financial Engineering and were developed from a team project. Everything here is an independent, rewritten implementation. Compared with the coursework it uses a longer sample, adds out-of-sample testing and fixes methodological issues: cointegration tests on returns, forward-filled calendars, and strategies selected and scored on the same data.
+These analyses grew out of econometrics coursework in the WorldQuant University MSc in Financial Engineering. Everything here is an independent, rewritten implementation. Compared with the coursework it uses a longer sample, adds out-of-sample testing and fixes methodological issues: cointegration tests on returns, forward-filled calendars, and strategies selected and scored on the same data.
 
 ---
 **Author:** Dr. Muhammad Imran Bhatti, PhD (Finance), MScFE · FCMA · [LinkedIn](https://www.linkedin.com/in/drimranbhatti) · [imranbhatti.com](https://imranbhatti.com)
